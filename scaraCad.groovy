@@ -88,7 +88,6 @@ return new ICadGenerator(){
 						"https://github.com/madhephaestus/Fanuc_SR_12ia-Scara.git",
 						"stl/"+type+"/"+"l3.STL"))
 					rotZPlate=rotZPlate
-								.roty(180)
 					rotZPlate.setColor(Color.SILVER)
 					parts.add(rotZPlate)
 				}
