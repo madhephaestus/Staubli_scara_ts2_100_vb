@@ -19,7 +19,6 @@
 
 <name>staubli</name>
 
-<parallelGroup>delta</parallelGroup>
 	<cadEngine>
 		<git>https://github.com/madhephaestus/Staubli_scara_ts2_100_vb.git</git>
 		<file>scaraCad.groovy</file>
